@@ -1,4 +1,4 @@
-FROM debian:stable-20240211-slim
+FROM debian:stable-20240423-slim
 
 LABEL maintainer="soerenschneider" \
       repo="https://github.com/soerenschneider/docker-pdflatex"
